@@ -4,7 +4,11 @@
 
 ## Скачать
 
-Установщики появятся на [странице выпусков](https://github.com/kop-kam/napomni-releases/releases) после публикации первой версии. Пока выпуск не опубликован, ссылка на последний выпуск может быть недоступна.
+[Скачать последний выпуск](https://github.com/kop-kam/napomni-releases/releases/latest).
+
+Выпуск **1.7.0**:
+- [Windows x64 — установщик EXE](https://github.com/kop-kam/napomni-releases/releases/download/v1.7.0/Napomni-Setup-1.7.0-x64.exe)
+- [Android — APK](https://github.com/kop-kam/napomni-releases/releases/download/v1.7.0/Napomni-1.7.0-android.apk)
 
 Для Windows нужен файл `Napomni-Setup-<версия>-x64.exe`, для Android — `Napomni-<версия>-android.apk`.
 
